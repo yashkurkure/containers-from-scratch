@@ -14,3 +14,7 @@ go build main.go
 sudo ./main run /bin/bash
 ```
 
+# UTC namespace
+
+
+# PID namespace
